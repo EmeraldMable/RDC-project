@@ -11,7 +11,6 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <Routes>
       <Route path='/' element={<Landing />}></Route>
     </Routes>
-   
     </BrowserRouter>
   </React.StrictMode>,
 )
